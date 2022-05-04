@@ -1,0 +1,23 @@
+{
+  "name": "trello_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioaltuzar/trello_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioaltuzar/trello_js/issues"
+  },
+  "homepage": "https://github.com/sergioaltuzar/trello_js#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
